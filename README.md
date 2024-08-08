@@ -1,9 +1,8 @@
 ![_ (2)](https://github.com/user-attachments/assets/ab51a9d5-ee83-4442-821e-0fb384356ddd)
-## Hi there 👋
-
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-belario-505ab2137/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vickybelario-id?si=6d4360fa1c824470)
+
 
 <!--
 **vickybelario/vickybelario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## **Hi there 👋, my name's Rio**
 
+## **About Me**
+
+Eager Data Analyst, Scientist, and Engineer enthusiast with a strong grounding in data science, acquired through comprehensive bootcamp training and practical project experience.
+
+## **Expertise**
 
 |**Skill** | **Stack** |
 |------|-------|
