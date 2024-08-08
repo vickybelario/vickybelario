@@ -1,3 +1,5 @@
+![tumblr_owi25v6uAo1r4gsiio1_1280_gif (1000×300)](https://github.com/user-attachments/assets/9d0a83d3-1f39-42a5-b15d-30b0f58e01f8)
+
 ## Hi there 👋
 
 <!--
