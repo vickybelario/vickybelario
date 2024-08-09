@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## **About Me**
 
-Eager Data Analyst, Scientist, and Engineer enthusiast with a strong grounding in data science, acquired through comprehensive bootcamp training and practical project experience.
+Data Analyst, Scientist, and Engineer enthusiast with a strong grounding in data science, acquired through comprehensive bootcamp training and practical project experience.
 
 ## **Expertise**
 
