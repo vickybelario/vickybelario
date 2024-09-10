@@ -36,13 +36,6 @@ Data Scientist, and Engineer enthusiast with a strong grounding in data science,
 |**Deployment** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-light.svg" width=120px height=29px>
 
 
-
-
-
-
-
-You said:
-
 ![vickybelario's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickybelario&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickybelario&layout=compact&theme=dark)
 
