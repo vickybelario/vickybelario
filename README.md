@@ -44,6 +44,7 @@ Data Scientist, and Engineer enthusiast with a strong grounding in data science,
 You said:
 
 ![vickybelario's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickybelario&show_icons=true&theme=dark)
-![vickybelario's stats](https://myreadme.vercel.app/api/embed/vickybelario?panels=toplanguages,commitgraph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickybelario&layout=compact&theme=dark)
+![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vickybelario&theme=github-dark)
 
 
