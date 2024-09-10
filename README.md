@@ -45,6 +45,6 @@ You said:
 
 ![vickybelario's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickybelario&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickybelario&layout=compact&theme=dark)
-![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vickybelario&theme=dark)
+![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vickybelario)
 
 
