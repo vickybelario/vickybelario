@@ -37,5 +37,8 @@ Data Scientist, and Engineer enthusiast with a strong grounding in data science,
 
 ![vickybelario's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickybelario&show_icons=true&theme=dark)
 
+<img src="https://myreadme.vercel.app/api/embed/vickybelario?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
 
 
