@@ -36,9 +36,7 @@ Data Scientist, and Engineer enthusiast with a strong grounding in data science,
 |**Deployment** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-light.svg" width=120px height=29px>
 
 ![vickybelario's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickybelario&show_icons=true&theme=dark)
-
-<img src="https://myreadme.vercel.app/api/embed/vickybelario?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickybelario&layout=compact&theme=dark)
+![GitHub Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vickybelario&theme=github-dark)
 
 
