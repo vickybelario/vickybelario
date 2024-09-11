@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-belario-505ab2137/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vickybelario-id?si=6d4360fa1c824470)
 
+![](https://komarev.com/ghpvc/?username=vickybelario&color=blue)
 
 <!--
 **vickybelario/vickybelario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,8 +25,6 @@ Here are some ideas to get you started:
 ## **About Me**
 
 Data Scientist, and Engineer enthusiast with a strong grounding in data science, acquired through comprehensive bootcamp training and practical project experience.
-
-![](https://komarev.com/ghpvc/?username=vickybelario&color=blue)
 
 ## **Expertise**
 
