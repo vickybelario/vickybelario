@@ -1,9 +1,9 @@
 
-![_ (2)](https://github.com/user-attachments/assets/ab51a9d5-ee83-4442-821e-0fb384356ddd)
+![(2)](https://github.com/user-attachments/assets/ab51a9d5-ee83-4442-821e-0fb384356ddd)
 
 |**Total Count**|
 |------|
-| ![](https://komarev.com/ghpvc/?username=vickybelario&color=blue&style=for-the-badge)|
+|![](https://komarev.com/ghpvc/?username=vickybelario&color=blue&style=for-the-badge)|
 
 |**My Socials**|
 |---|
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## **About Me**
 
-Data Scientist, and Engineer enthusiast with a strong grounding in data science, acquired through comprehensive bootcamp training and practical project experience.
+Eager Data Scientist and Engineer acquired through comprehensive bootcamp training and practical project experience. Holding a Bachelor's degree in Computer Science. Proficient in executing projects involving financial performance analysis, delivering actionable business insights, and overseeing technical initiatives. Adept at managing the entire data lifecycle, including data acquisition, processing, analysis, and the development and deployment of machine learning models.
 
 ## **Expertise**
 
