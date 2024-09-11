@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 Data Scientist, and Engineer enthusiast with a strong grounding in data science, acquired through comprehensive bootcamp training and practical project experience.
 
+![](https://komarev.com/ghpvc/?username=vickybelario&color=blue)
+
 ## **Expertise**
 
 |**Skill** | **Stack** |
