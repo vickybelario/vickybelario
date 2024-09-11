@@ -37,11 +37,11 @@ Data Scientist, and Engineer enthusiast with a strong grounding in data science,
 |**Database Tools** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)  ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) |
 |**Deployment** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-light.svg" width=120px height=29px>
 
-
+My Stats:
 ![vickybelario's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickybelario&show_icons=true&theme=dark)
-
+Activity On GitHub:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vickybelario&theme=dark)](https://git.io/streak-stats)
-
+Language Use:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickybelario&layout=compact&theme=dark)
 
 
