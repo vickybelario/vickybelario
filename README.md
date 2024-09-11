@@ -39,7 +39,7 @@ Data Scientist, and Engineer enthusiast with a strong grounding in data science,
 
 ## My Stats:
 ![vickybelario's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickybelario&show_icons=true&theme=dark)
-##Activity On GitHub:
+## Activity On GitHub:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vickybelario&theme=dark)](https://git.io/streak-stats)
 ## Language Use:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickybelario&layout=compact&theme=dark)
