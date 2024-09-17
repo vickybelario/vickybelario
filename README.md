@@ -5,7 +5,7 @@
 |------|
 |![](https://komarev.com/ghpvc/?username=vickybelario&color=blue&style=for-the-badge)|
 
-|**My Link**|
+|**My Social**|
 |---|
 |[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-belario-505ab2137/) [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/c66f236e-3dff-4f18-8d64-1668d30ae67c) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vickybelario) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727213828051435631) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vickybelario-id?si=6d4360fa1c824470)|
 
