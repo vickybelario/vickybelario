@@ -18,6 +18,7 @@
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-white.svg?style=for-the-badge&logo=huggingface&logoColor=yellow)
 
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-white.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 
 
 
