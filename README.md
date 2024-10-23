@@ -13,6 +13,9 @@
 
 ![Credly](https://img.shields.io/badge/Credly-%230D79B1.svg?style=for-the-badge&logo=credly&logoColor=white)
 
+![Credly](https://img.shields.io/badge/Credly-%23F28F00.svg?style=for-the-badge&logo=credly&logoColor=white)
+
+
 <!--
 **vickybelario/vickybelario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
