@@ -14,7 +14,10 @@
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FF7A8A.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-white.svg?style=for-the-badge&logo=huggingface&logoColor=%23FF7A8A)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-white.svg?style=for-the-badge&logo=huggingface&logoColor=%23FF7A8A)'
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-white.svg?style=for-the-badge&logo=huggingface&logoColor=yellow)
+
 
 
 
