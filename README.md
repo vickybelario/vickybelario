@@ -5,16 +5,13 @@
 |------|
 |![](https://komarev.com/ghpvc/?username=vickybelario&color=blue&style=for-the-badge)|
 
+|**My Platform**|
+|---|
+|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-belario-505ab2137/) [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/c66f236e-3dff-4f18-8d64-1668d30ae67c) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vickybelario) [<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-light.svg" width="120" height="29">](https://huggingface.co/vickybelario) ![Credly](https://img.shields.io/badge/Credly-%23F28F00.svg?style=for-the-badge&logo=credly&logoColor=white)|
+
 |**My Social**|
 |---|
-|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-belario-505ab2137/) [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/c66f236e-3dff-4f18-8d64-1668d30ae67c) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vickybelario) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727213828051435631) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/vickybelario-id?si=6d4360fa1c824470)[<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-light.svg" width="120" height="29">](https://huggingface.co/vickybelario)|
-
-![Credly](https://img.shields.io/badge/Credly-white.svg?style=for-the-badge&logo=credly&logoColor=black)
-
-![Credly](https://img.shields.io/badge/Credly-%230D79B1.svg?style=for-the-badge&logo=credly&logoColor=white)
-
-![Credly](https://img.shields.io/badge/Credly-%23F28F00.svg?style=for-the-badge&logo=credly&logoColor=white)
-
+|[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/727213828051435631) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)]|
 
 <!--
 **vickybelario/vickybelario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
