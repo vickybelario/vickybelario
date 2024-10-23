@@ -7,7 +7,7 @@
 
 |**My Platform**|
 |---|
-|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-belario-505ab2137/) [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/c66f236e-3dff-4f18-8d64-1668d30ae67c) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vickybelario) ![Credly](https://img.shields.io/badge/Credly-%23F28F00.svg?style=for-the-badge&logo=credly&logoColor=white)(https://www.credly.com/users/vicky-belario)[<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-light.svg" width="120" height="29">](https://huggingface.co/vickybelario)|
+|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-belario-505ab2137/) [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/c66f236e-3dff-4f18-8d64-1668d30ae67c) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vickybelario) [![Credly](https://img.shields.io/badge/Credly-%23F28F00.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vicky-belario) [<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/powered-by-huggingface-light.svg" width="120" height="29">](https://huggingface.co/vickybelario)|
 
 |**My Social**|
 |---|
